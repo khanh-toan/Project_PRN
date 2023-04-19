@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneManagerFormApp", "PhoneManagerFormApp\PhoneManagerFormApp.csproj", "{36CF35BA-5404-4E19-A873-F88F40A2C056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneManagerWebApp", "PhoneManagerWebApp\PhoneManagerWebApp.csproj", "{5FBFBE23-37D0-4D6D-B62B-4F707D8361FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36CF35BA-5404-4E19-A873-F88F40A2C056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CF35BA-5404-4E19-A873-F88F40A2C056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CF35BA-5404-4E19-A873-F88F40A2C056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CF35BA-5404-4E19-A873-F88F40A2C056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FBFBE23-37D0-4D6D-B62B-4F707D8361FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FBFBE23-37D0-4D6D-B62B-4F707D8361FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FBFBE23-37D0-4D6D-B62B-4F707D8361FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FBFBE23-37D0-4D6D-B62B-4F707D8361FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5911184-3F56-4160-906D-F7A5ED22EDDC}
+	EndGlobalSection
+EndGlobal
